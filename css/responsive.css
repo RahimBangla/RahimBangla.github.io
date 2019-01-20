@@ -1,0 +1,460 @@
+@media only screen and (min-width: 0px) and (max-width: 991px) {
+  .registration-form{
+    padding-top: 70px;
+  }
+.job-activity p{
+	float: none;
+}
+.login-area{
+    padding-top: 70px;
+  }
+.panel-body-02{
+	overflow: scroll;
+}
+.search-form .btn-green{
+    width: 100%;
+  }
+.sidebar{
+padding-right: 15px;
+}
+  .video-guides h2{
+        display: inline-block;
+    }
+.login-form{
+  height: auto;
+    padding-bottom: 20px;
+  }
+.login-form h1{
+  padding: 10px 0px 10px 20px;
+}
+.banner-right-01 {
+display: none;
+}
+.wrap_top_cont, .wrap_top_cont_bn{
+left: 2%;
+}
+.carousel-col {
+padding-left: 0px;
+padding-right: 0px;
+}
+.footer-ad{
+display: none;
+}
+.job-location{
+margin-top: 0px;
+}
+.right-items{
+padding-top: 0px;
+margin-top: 0px;
+}
+.left-items{
+margin-bottom: 0px;
+padding-bottom: 0px;
+}
+.bottom-btn {
+margin: 20px 0px 10px 30px;
+}
+.navbar-nav li{
+border-right: none;
+}
+.menu-item{
+border: none;
+}
+.resume-desktop-view{
+}
+.tab-data p{
+padding-top: 0px;
+}
+.tab-data h4 {
+margin-bottom: 0px;
+}
+.notification-bar p{
+float: left;
+}
+.forget-ad{
+display: none;
+}
+/*For cv Summery view*/
+.carts .user-left, .carts .user-left img {
+    text-align: center;
+    display: inline;
+    height: 80px;
+    width: 80px;
+  }
+
+  .carts {
+    text-align: center;
+  }
+
+  .user-details, .properties {
+    border-bottom: 1px solid #E0E0E0;
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+  }
+
+  .career {
+    text-align: center;
+    padding: 10px 0px;
+    border-bottom: 1px solid #E0E0E0;
+  }
+
+  .sl .badge {
+    position: relative;
+    border-radius: 4px;
+    margin-top: 4px;
+  }
+
+  .sl {
+    text-align: left;
+    padding: 0px 0px 0px 10px;
+  }
+
+  .carts .panel-body .row.bs {
+    padding: 5px 0px 15px 0px;
+  }
+/*Social button*/
+.social-button .btn{
+  margin: 0px 0px 0px 0px;
+}
+.social-button h4{
+  margin: 0px 10px 0px 0px;
+}
+.sign-up-guide{
+  margin-top: -20px;
+}
+.user-contents {
+     margin-top: 0px; 
+}
+.jc{ display:block !important;
+}
+
+/* Photograf*/
+#photograph .file-input .input-group{
+	width: 100%;
+	display: block;
+	border-radius: 4px;
+}
+#photograph .file-input .file-caption{
+	width: 100%;
+	display: block;
+	border-radius: 4px;
+	margin-bottom: 5px;
+}
+#photograph .file-input .input-group-btn{
+	width: 100%;
+	display: block;
+}
+#photograph .file-input .input-group-btn .btn{
+	display: block;
+	width: 100%;
+	border-radius: 4px;
+	margin-bottom: 5px;
+}
+/* ==========================================================================
+Assessment intro page
+========================================================================== */
+.assessment.intro p{
+  margin: 20px 0px 20px 0px;
+  padding: 0px;
+}
+.panel-body.assessment.intro{
+  padding: 20px;
+}
+.assessment.intro h2{
+  font-size: 20px;
+}
+.assessment.intro .btn-default{
+  font-size: 14px;
+  overflow: hidden;
+}
+
+.reg-form{
+	margin-top:5px;
+}
+.form-group .required {margin-top:0px;}
+.empty .required {margin-top:0px;}
+
+.bc-title-txt{text-align:left; margin-bottom:5px;}
+
+}
+@media only screen and (max-width: 468px){
+.cv-area{
+	width: 80%;
+	height: 100%;
+}
+.cv-area p{
+	font-size: 14px;
+}
+
+.user-form{
+width: 100%;
+}
+.switch_lan_wrap{
+margin-bottom: 10px;
+}
+.wrap_top_cont, .wrap_top_cont_bn{
+width: 100%;
+}
+.top_bar_train, .top_bar_emp {
+margin: 10px 0px 10px 0px;
+}
+.wrap_top_cont, .wrap_top_cont_bn{
+left: 0%;
+}
+.modal-row {
+margin-bottom: 0px;
+margin-top: 0px;
+}
+.ja-panel th{
+font-size: 12px;
+}
+.notes{
+margin-left: 30px;
+margin-bottom: 10px;
+}
+.language-selection, .form-width-xs{
+width: 100%;
+}
+.field-mobile-view-title{
+text-align: left;
+width: 100%;
+margin: 0px;
+padding-top: 0px;
+}
+.field-mobile-view{
+width: 100%;
+}
+.table-inside{
+}
+.ja-panel td{
+font-size: 12px;
+}
+.table-inside{font-size: 14px;}
+}
+@media only screen and (max-width: 768px){
+.switch_lan_wrap{
+margin-bottom: 10px; 
+}
+.top-menu{
+margin-top: 14px;
+}
+.top_bar_jobs a{
+text-decoration:none; 
+padding:5px 5px 5px 5px; 
+margin:0px 0px 0px 0px; 
+color:#fff; 
+background:transparent; 
+border:1px solid transparent; 
+font-size:10px; 
+font-weight:bold; 
+text-align:center; 
+line-height:14px; 
+letter-spacing:1px; 
+
+
+border-radius:2px; 
+
+}
+.top_bar_jobs a:hover{
+padding:5px 5px 5px 5px; 
+margin:0px 0px 0px 0px; 
+color:#fff; 
+background:#063851; 
+border:1px solid #fff; 
+font-size:10px; 
+font-weight:bold; 
+text-align:center; 
+line-height:14px; 
+letter-spacing:1px; 
+
+
+border-radius:2px; 
+
+position:relative;
+}
+.top_bar_train{
+font-family: arial;
+float:left; 
+}
+.top_bar_train a{
+text-decoration:none; 
+padding:5px 5px 5px 5px; 
+margin:0px 0px 0px 0px; 
+color:#fff; 
+background:transparent; 
+border:1px solid transparent; 
+font-size:10px; 
+font-weight:bold; 
+text-align:center; 
+line-height:14px; 
+letter-spacing:1px; 
+
+
+border-radius:2px; 
+
+position:relative;
+}
+.top_bar_train a:hover{
+padding:5px 5px 5px 5px; 
+margin:0px 0px 0px 0px; 
+color:#fff; 
+background:#ac016d; 
+border:1px solid #fff; 
+font-size:10px; 
+font-weight:bold; 
+text-align:center; 
+line-height:14px; 
+letter-spacing:1px; 
+
+
+border-radius:2px; 
+
+position:relative;
+}
+.top_bar_mybdj .current{
+font-size: 10px;
+}
+.top_bar_emp{
+font-family: arial;
+float:left;
+}
+.top_bar_emp a{
+text-decoration:none; 
+padding:5px 5px 5px 5px; 
+margin:0px 0px 0px 0px; 
+color:#fff; 
+background:transparent; 
+border:1px solid transparent; 
+font-size:10px; font-weight:bold; 
+text-align:center; 
+line-height:14px; 
+letter-spacing:1px; 
+
+
+border-radius:2px;  
+
+position:relative;
+}
+.top_bar_emp a:hover{
+padding:5px 5px 5px 5px; 
+margin:0px 0px 0px 0px; 
+color:#fff; 
+background:#0b5f8a; 
+border:1px solid #fff; 
+font-size:10px; 
+font-weight:bold; 
+text-align:center; 
+line-height:14px; 
+letter-spacing:1px; 
+
+
+border-radius:2px; 
+position:relative;
+}
+.wrap_top_cont, .wrap_top_cont_bn{
+left: 0%;
+margin-top: 12px;
+}
+.language-btn{
+margin-top: 5px;
+margin-bottom: 40px;
+}
+.user-panel{
+text-align: left;
+padding: 40px 0px 0px 0px;
+}
+.carousel-control .glyphicon-chevron-left {
+left: 10%;
+}
+.item img{
+width: 100%;
+height: auto;
+}
+
+.reg-form{
+	margin-top:5px;
+}
+.form-group .required {margin-top:0px;}
+.empty .required {margin-top:0px;}
+
+}
+@media only screen and (min-width: 768px) {
+.ed-btn{
+float: right;
+}
+}
+@media only screen and (min-width: 991px) {
+	.job-activity .col-md-4.auto{
+		width: auto;
+	}
+	.job-activity .row.right{
+		float: right;
+	}
+	.social-modal .modal-dialog {
+    width: 500px;
+}
+.npr{
+    padding-right: 0px;
+  }
+  .search-form .btn-green{
+	margin-top: 10px;
+    padding: 5px 60px;
+  }
+.note-texts{
+padding-left: 0px;
+padding-top: 5px;
+}
+.resume-mobile-view{
+display: none;
+}
+.footer-ad-mobile{
+display: none;
+}
+.ed-btn{
+float: right;
+}
+.modal-dialog{/* width: 90%; *//* margin-top: 10px; */}
+
+.bottom-btn {
+margin: 0px 0px 10px 30px;
+}
+.footer-ad{
+width: 100%;
+margin: 0 auto;
+text-align: left;
+margin-bottom: 10px;
+}
+.modal-emp {
+    width: 600px !important;
+    margin: 30px auto !important;
+}
+}
+
+[class^="glyphicon-"], [class*=" glyphicon-"]{
+    font-family: 'Glyphicons Halflings' !important;
+}
+
+
+@media only screen and (min-width:991px) and (max-width:1200px) {
+	.left-form{	min-height:830px;}
+}
+@media only screen and (min-width:768px) and (max-width:991px) {
+	.left-form{	margin-bottom:20px;}
+}
+
+@media only screen and (min-width:991px) and (max-width:1200px) {
+	.left-cont{	min-height:540px;}
+}
+@media only screen and (min-width:768px) and (max-width:991px) {
+	.left-cont{	margin-bottom:20px;}	
+	.voffset{margin-top:5px; }
+}
+
+
+.features-area, .help-area, .aregister {
+    padding: 20px;
+    background-color: #fff;
+    border-bottom: 2px solid #bdbdbd;
+    margin-bottom: 20px;
+    border-radius: 2px;
+}
