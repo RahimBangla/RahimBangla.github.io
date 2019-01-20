@@ -1,0 +1,207 @@
+    <!--
+      
+      <!-- TESTIMONIALS -->
+    <section id="clients" class="section one-page-section second-bg">
+        <div class="container">
+            <div class="section-title">
+                <h2>Testimonials</h2>
+            </div>
+
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="owl-carousel testimonial-slider owl-loaded owl-drag">
+
+                        
+                        
+                        
+                        
+                        
+                        
+
+                    <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1740px, 0px, 0px); transition: all 0s ease 0s; width: 6960px;"><div class="owl-item cloned" style="width: 560px; margin-right: 20px;"><div class="one-testimonial">
+                            <div class="testimonial-content">
+                                <p>Lorem ipsum dolor sit amet, 
+consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed 
+commodo nibh facilisis bibendum dolor feugiat.</p>
+                            </div>
+                            <div class="testimonial-person">
+                                <figure>
+                                  <img src="IMOZAR%20-%20Personal%20Portfolio%20Template_files/t-2.jpg" alt="tes-img-2">
+                                </figure>
+                                <div class="testimonial-inf">
+                                    <h4>Rebecca Johansson</h4>
+                                    <p>Project Manager</p>
+                                </div>
+                            </div>
+                        </div></div><div class="owl-item cloned" style="width: 560px; margin-right: 20px;"><div class="one-testimonial">
+                            <div class="testimonial-content">
+                                <p>Lorem ipsum dolor sit amet, 
+consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed 
+commodo nibh facilisis bibendum dolor feugiat.</p>
+                            </div>
+                            <div class="testimonial-person">
+                                <figure>
+                                  <img src="IMOZAR%20-%20Personal%20Portfolio%20Template_files/t-1.jpg" alt="tes-img-1">
+                                </figure>
+                                <div class="testimonial-inf">
+                                    <h4>Mark Smith</h4>
+                                    <p>Creative Head</p>
+                                </div>
+                            </div>
+                        </div></div><div class="owl-item cloned" style="width: 560px; margin-right: 20px;"><div class="one-testimonial">
+                            <div class="testimonial-content">
+                                <p>Lorem ipsum dolor sit amet, 
+consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed 
+commodo nibh facilisis bibendum dolor feugiat.</p>
+                            </div>
+                            <div class="testimonial-person">
+                                <figure>
+                                  <img src="IMOZAR%20-%20Personal%20Portfolio%20Template_files/t-6.jpg" alt="tes-img-6">
+                                </figure>
+                                <div class="testimonial-inf">
+                                    <h4>Audley Carson</h4>
+                                    <p>Front End Developer</p>
+                                </div>
+                            </div>
+                        </div></div><div class="owl-item active" style="width: 560px; margin-right: 20px;"><div class="one-testimonial">
+                            <div class="testimonial-content">
+                                <p>Lorem ipsum dolor sit amet, 
+consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed 
+commodo nibh facilisis bibendum dolor feugiat.</p>
+                            </div>
+                            <div class="testimonial-person">
+                                <figure>
+                                  <img src="IMOZAR%20-%20Personal%20Portfolio%20Template_files/t-5.jpg" alt="tes-img-5">
+                                </figure>
+                                <div class="testimonial-inf">
+                                    <h4>Amber Cottle</h4>
+                                    <p>Web Developer</p>
+                                </div>
+                            </div>
+                        </div></div><div class="owl-item active" style="width: 560px; margin-right: 20px;"><div class="one-testimonial">
+                            <div class="testimonial-content">
+                                <p>Lorem ipsum dolor sit amet, 
+consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed 
+commodo nibh facilisis bibendum dolor feugiat.</p>
+                            </div>
+                            <div class="testimonial-person">
+                                <figure>
+                                  <img src="IMOZAR%20-%20Personal%20Portfolio%20Template_files/t-3.jpg" alt="tes-img-3">
+                                </figure>
+                                <div class="testimonial-inf">
+                                    <h4>John Doe</h4>
+                                    <p>Ceo Founder</p>
+                                </div>
+                            </div>
+                        </div></div><div class="owl-item" style="width: 560px; margin-right: 20px;"><div class="one-testimonial">
+                            <div class="testimonial-content">
+                                <p>Lorem ipsum dolor sit amet, 
+consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed 
+commodo nibh facilisis bibendum dolor feugiat.</p>
+                            </div>
+                            <div class="testimonial-person">
+                                <figure>
+                                  <img src="IMOZAR%20-%20Personal%20Portfolio%20Template_files/t-4.jpg" alt="tes-img-4">
+                                </figure>
+                                <div class="testimonial-inf">
+                                    <h4>Alvin Jewel</h4>
+                                    <p>Creative Head</p>
+                                </div>
+                            </div>
+                        </div></div><div class="owl-item" style="width: 560px; margin-right: 20px;"><div class="one-testimonial">
+                            <div class="testimonial-content">
+                                <p>Lorem ipsum dolor sit amet, 
+consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed 
+commodo nibh facilisis bibendum dolor feugiat.</p>
+                            </div>
+                            <div class="testimonial-person">
+                                <figure>
+                                  <img src="IMOZAR%20-%20Personal%20Portfolio%20Template_files/t-2.jpg" alt="tes-img-2">
+                                </figure>
+                                <div class="testimonial-inf">
+                                    <h4>Rebecca Johansson</h4>
+                                    <p>Project Manager</p>
+                                </div>
+                            </div>
+                        </div></div><div class="owl-item" style="width: 560px; margin-right: 20px;"><div class="one-testimonial">
+                            <div class="testimonial-content">
+                                <p>Lorem ipsum dolor sit amet, 
+consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed 
+commodo nibh facilisis bibendum dolor feugiat.</p>
+                            </div>
+                            <div class="testimonial-person">
+                                <figure>
+                                  <img src="IMOZAR%20-%20Personal%20Portfolio%20Template_files/t-1.jpg" alt="tes-img-1">
+                                </figure>
+                                <div class="testimonial-inf">
+                                    <h4>Mark Smith</h4>
+                                    <p>Creative Head</p>
+                                </div>
+                            </div>
+                        </div></div><div class="owl-item" style="width: 560px; margin-right: 20px;"><div class="one-testimonial">
+                            <div class="testimonial-content">
+                                <p>Lorem ipsum dolor sit amet, 
+consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed 
+commodo nibh facilisis bibendum dolor feugiat.</p>
+                            </div>
+                            <div class="testimonial-person">
+                                <figure>
+                                  <img src="IMOZAR%20-%20Personal%20Portfolio%20Template_files/t-6.jpg" alt="tes-img-6">
+                                </figure>
+                                <div class="testimonial-inf">
+                                    <h4>Audley Carson</h4>
+                                    <p>Front End Developer</p>
+                                </div>
+                            </div>
+                        </div></div><div class="owl-item cloned" style="width: 560px; margin-right: 20px;"><div class="one-testimonial">
+                            <div class="testimonial-content">
+                                <p>Lorem ipsum dolor sit amet, 
+consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed 
+commodo nibh facilisis bibendum dolor feugiat.</p>
+                            </div>
+                            <div class="testimonial-person">
+                                <figure>
+                                  <img src="IMOZAR%20-%20Personal%20Portfolio%20Template_files/t-5.jpg" alt="tes-img-5">
+                                </figure>
+                                <div class="testimonial-inf">
+                                    <h4>Amber Cottle</h4>
+                                    <p>Web Developer</p>
+                                </div>
+                            </div>
+                        </div></div><div class="owl-item cloned" style="width: 560px; margin-right: 20px;"><div class="one-testimonial">
+                            <div class="testimonial-content">
+                                <p>Lorem ipsum dolor sit amet, 
+consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed 
+commodo nibh facilisis bibendum dolor feugiat.</p>
+                            </div>
+                            <div class="testimonial-person">
+                                <figure>
+                                  <img src="IMOZAR%20-%20Personal%20Portfolio%20Template_files/t-3.jpg" alt="tes-img-3">
+                                </figure>
+                                <div class="testimonial-inf">
+                                    <h4>John Doe</h4>
+                                    <p>Ceo Founder</p>
+                                </div>
+                            </div>
+                        </div></div><div class="owl-item cloned" style="width: 560px; margin-right: 20px;"><div class="one-testimonial">
+                            <div class="testimonial-content">
+                                <p>Lorem ipsum dolor sit amet, 
+consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed 
+commodo nibh facilisis bibendum dolor feugiat.</p>
+                            </div>
+                            <div class="testimonial-person">
+                                <figure>
+                                  <img src="IMOZAR%20-%20Personal%20Portfolio%20Template_files/t-4.jpg" alt="tes-img-4">
+                                </figure>
+                                <div class="testimonial-inf">
+                                    <h4>Alvin Jewel</h4>
+                                    <p>Creative Head</p>
+                                </div>
+                            </div>
+                        </div></div></div></div><div class="owl-nav"><div class="owl-prev"><div class="testimonial-slider-btn effect hor-center"><i class="fa fa-angle-left center"></i></div></div><div class="owl-next"><div class="testimonial-slider-btn effect hor-center"><i class="fa fa-angle-right center"></i></div></div></div><div class="owl-dots"><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div></div></div>
+                </div>
+            </div><!-- end row -->
+        </div> <!-- End Container -->
+    </section>
+    <!-- END TESTIMONIALS -->
+ //-->
