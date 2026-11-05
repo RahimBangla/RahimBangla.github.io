@@ -1,0 +1,110 @@
+{
+  "updated": "2026-11-05",
+  "repos": 42,
+  "languages": [
+    {
+      "name": "PHP",
+      "bytes": 17431588
+    },
+    {
+      "name": "HTML",
+      "bytes": 11933128
+    },
+    {
+      "name": "JavaScript",
+      "bytes": 6798408
+    },
+    {
+      "name": "CSS",
+      "bytes": 5021254
+    },
+    {
+      "name": "Less",
+      "bytes": 499829
+    },
+    {
+      "name": "C",
+      "bytes": 478331
+    },
+    {
+      "name": "Python",
+      "bytes": 468384
+    },
+    {
+      "name": "Jupyter Notebook",
+      "bytes": 194978
+    },
+    {
+      "name": "SCSS",
+      "bytes": 164430
+    },
+    {
+      "name": "EJS",
+      "bytes": 107368
+    },
+    {
+      "name": "C#",
+      "bytes": 65509
+    },
+    {
+      "name": "Roff",
+      "bytes": 60910
+    },
+    {
+      "name": "Vue",
+      "bytes": 53246
+    },
+    {
+      "name": "Perl",
+      "bytes": 50950
+    },
+    {
+      "name": "TSQL",
+      "bytes": 32782
+    },
+    {
+      "name": "Shell",
+      "bytes": 31720
+    },
+    {
+      "name": "Makefile",
+      "bytes": 23443
+    },
+    {
+      "name": "TypeScript",
+      "bytes": 17506
+    },
+    {
+      "name": "Assembly",
+      "bytes": 9136
+    },
+    {
+      "name": "Hack",
+      "bytes": 8147
+    },
+    {
+      "name": "Java",
+      "bytes": 6255
+    },
+    {
+      "name": "TeX",
+      "bytes": 3601
+    },
+    {
+      "name": "Dockerfile",
+      "bytes": 2162
+    },
+    {
+      "name": "Batchfile",
+      "bytes": 891
+    },
+    {
+      "name": "C++",
+      "bytes": 524
+    },
+    {
+      "name": "Handlebars",
+      "bytes": 444
+    }
+  ]
+}
