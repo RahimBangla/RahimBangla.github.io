@@ -258,6 +258,11 @@
     .project { display: flex; flex-direction: column; }
     .project:hover { transform: translateY(-3px); }
     .project.featured { background: linear-gradient(135deg, rgba(255,255,255,.09), rgba(255,255,255,.02) 60%); }
+    .project.wide { grid-column: 1 / -1; }
+    .project.wide > p { max-width: 75ch; }
+    .card .lang-cap { margin: 22px 0 0; font-size: .8125rem; color: var(--dim); }
+    .langbar.mini { height: 8px; max-width: 640px; margin-top: 10px; }
+    .project .langlegend { margin-top: 12px; font-size: .875rem; }
     .project .top { display: flex; justify-content: space-between; align-items: flex-start; gap: 16px; }
     .badge { flex: none; font-size: .75rem; padding: 4px 10px; border-radius: 999px; border: 1px solid var(--line-strong); color: #D4D4D4; white-space: nowrap; }
     .tags { display: flex; flex-wrap: wrap; gap: 8px; list-style: none; margin: 20px 0 0; padding: 0; }
@@ -625,7 +630,7 @@
     <section id="work" class="wrap" aria-labelledby="work-h">
       <div class="head" data-reveal>
         <h2 id="work-h">Selected work</h2>
-        <p>What I'm building at HomePay, plus projects that are live today, from a nonprofit donation platform to AI and data tools.</p>
+        <p>What I'm building at HomePay, plus projects that are live today: a pay-per-call platform, a nonprofit donation system, and AI and data tools.</p>
       </div>
       <ul class="work">
         <li class="card project featured" data-reveal>
@@ -640,11 +645,25 @@
           <ul class="tags"><li>Remittance payouts</li><li>Partner API</li><li>Webhooks</li><li>Settlement</li></ul>
           <p class="links"><a href="https://homepay.io">homepay.io<svg class="i"><use href="#i-arrow"/></svg></a></p>
         </li>
+        <li class="card project wide" data-reveal>
+          <div class="top"><h3>MutualCall</h3><span class="badge">Recent</span></div>
+          <p>MutualCall connects advertisers and publishers through premium pay-per-call solutions, delivering verified, high-intent calls that drive results. I built the application behind it, the MutualCall console: a modern microservice backend on .NET 10 and a Vite + React front end, handling real-time call routing and call tracking, with analytics and reporting for both advertisers and publishers.</p>
+          <p class="lang-cap">Codebase by language</p>
+          <div class="langbar mini" aria-hidden="true"><span style="--g:58.6;--c:#FFFFFF"></span><span style="--g:40.7;--c:#A3A3A3"></span><span style="--g:0.7;--c:#575757"></span></div>
+          <ul class="langlegend"><li><i style="--c:#FFFFFF"></i>TypeScript<b>58.6%</b></li><li><i style="--c:#A3A3A3"></i>C#<b>40.7%</b></li><li><i style="--c:#575757"></i>Other<b>0.7%</b></li></ul>
+          <ul class="tags"><li>.NET 10</li><li>C#</li><li>Microservices</li><li>Vite</li><li>React</li><li>TypeScript</li><li>Docker</li><li>Call routing</li><li>Call tracking</li><li>Pay-per-call</li></ul>
+          <p class="links"><a href="https://console.mutualcall.com/">Console app<svg class="i"><use href="#i-arrow"/></svg></a><a href="https://mutualcall.com/">Live site<svg class="i"><use href="#i-arrow"/></svg></a></p>
+        </li>
         <li class="card project" data-reveal>
           <div class="top"><h3>Youth for Bangladesh</h3><span class="badge">Nonprofit</span></div>
-          <p>Website and donation management system for Youth for Bangladesh, a volunteer youth organization that provides food, education, treatment, clothing and shelter for underprivileged children and homeless people. Supporters donate online and sign up as Daily Ten members.</p>
-          <ul class="tags"><li>Donation management</li><li>Next.js</li><li>React</li><li>Tailwind CSS</li></ul>
-          <p class="links"><a href="https://yfbd.org/">Live site<svg class="i"><use href="#i-arrow"/></svg></a></p>
+          <p>Website and donation management system for Youth for Bangladesh, a volunteer youth organization that provides food, education, treatment, clothing and shelter for underprivileged children and homeless people. Supporters donate online and sign up as Daily Ten members. Around it I built an admin portal for the team, the website for Valo Kajer Hotel, its free-meal project for people in need, and YFBD EMS, an Android app for staff attendance with selfie and GPS check-in, duty reminders and history.</p>
+          <ul class="tags"><li>Donation management</li><li>Admin portal</li><li>Android app</li><li>GPS attendance</li><li>Next.js</li><li>React</li><li>Tailwind CSS</li></ul>
+          <p class="links">
+            <a href="https://yfbd.org/">Live site<svg class="i"><use href="#i-arrow"/></svg></a>
+            <a href="https://admin.yfbd.org/">Admin portal<svg class="i"><use href="#i-arrow"/></svg></a>
+            <a href="https://vkhbd.org/">Valo Kajer Hotel<svg class="i"><use href="#i-arrow"/></svg></a>
+            <a href="https://play.google.com/store/apps/details?id=org.yfbd.ems&amp;hl=en">Android app<svg class="i"><use href="#i-arrow"/></svg></a>
+          </p>
         </li>
         <li class="card project" data-reveal>
           <div class="top"><h3>CDR i2 Analyzer</h3><span class="badge">Live tool</span></div>
